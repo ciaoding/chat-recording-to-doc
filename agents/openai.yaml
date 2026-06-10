@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chat Recording to Doc"
+  short_description: "Turn chat screen recordings into anonymized docs"
+  default_prompt: "Use $chat-recording-to-doc to convert a local chat screen recording into an anonymized text document."
